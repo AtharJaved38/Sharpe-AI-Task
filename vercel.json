@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/"
+        },
+        {
+            "src": "/transaction",
+            "dest": "/"
+        },
+        {
+            "src": "/data",
+            "dest": "/"
+        }
+    ]
+}
