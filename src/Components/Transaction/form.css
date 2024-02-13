@@ -1,0 +1,43 @@
+.container {
+  background-color: rgba(255, 255, 255, 0.322);
+  text-align: center;
+  width: fit-content;
+  padding: 40px 40px;
+  margin-top: 40px;
+  font-family: "sans-serif";
+  border-radius: 9px;
+  color: white;
+
+  input {
+    margin-bottom: 20px;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    outline: none;
+  }
+  form{
+    margin-top: 40px;
+  }
+}
+
+.label{
+  font-size: 20px;
+  text-align: left;
+}
+
+.btn{
+  padding: 10px 30px;
+  
+}
+
+.form-title{
+  color: lightgreen;
+}
+
+.alert{
+  width: 40%;
+  text-align: center;
+  margin-top: 20px;
+  left: 30%;
+}
